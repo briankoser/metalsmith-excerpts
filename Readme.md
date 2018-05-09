@@ -1,3 +1,7 @@
+The constant forking and modifying is one of the reasons I stopped using metalsmith.
+
+---
+
 # metalsmith-excerpts
 
   A [Metalsmith](http://metalsmith.io) plugin to extract an excerpt from Markdown files.
